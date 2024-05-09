@@ -12,4 +12,4 @@ It is because this tool is designed to perform all kinds of form submissions aut
 Test on a disposable/dummy setup/site!
 
 # Disclaimer:
-Usage of XSRFProbe for testing websites without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. The author assumes no liability and is not exclusively responsible for any misuse or damage caused by this program.
+Usage of this code for testing websites without prior mutual consistency can be considered as an illegal activity. It is the final user's responsibility to obey all applicable local, state and federal laws. The author assumes no liability and is not exclusively responsible for any misuse or damage caused by this program.
